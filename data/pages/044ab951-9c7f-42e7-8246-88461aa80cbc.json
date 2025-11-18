@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-11-18T19:39:11.603Z",
+  "created_by": "tanyaclement",
+  "title": "MDV 90",
+  "slug": "mdv-90",
+  "updated_at": "2025-11-18T19:39:11.603Z",
+  "updated_by": "tanyaclement",
+  "parent": "bf35aa06-5b32-4c62-9e8f-4642726461c8",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "ff15bf66-17e4-4a50-893f-463be1d31665"
+  }
+}

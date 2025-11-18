@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-11-18T19:39:11.378Z",
+  "created_by": "tanyaclement",
+  "title": "MDV 84",
+  "slug": "mdv-84",
+  "updated_at": "2025-11-18T19:39:11.378Z",
+  "updated_by": "tanyaclement",
+  "parent": "bf35aa06-5b32-4c62-9e8f-4642726461c8",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "93250263-c920-43a2-a30b-5eaa3de5329f"
+  }
+}

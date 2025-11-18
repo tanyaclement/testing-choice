@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "c2fe68d1-eeb8-4b0d-aae6-5596938d27fd": {
+      "label": "auto",
+      "file_url": "https://media.dlib.indiana.edu/master_files/st74dc16z/auto.m3u8",
+      "duration": 3660,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-11-18T19:39:10.341Z",
+  "created_by": "tanyaclement",
+  "label": "MDV 69",
+  "updated_at": "2025-11-18T19:39:10.341Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}
