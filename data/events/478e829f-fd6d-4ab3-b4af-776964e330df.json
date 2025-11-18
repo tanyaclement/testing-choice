@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "7a832eed-8752-47ca-9611-ce632ae3d7b6": {
+      "label": "auto",
+      "file_url": "https://media.dlib.indiana.edu/master_files/02870z762/auto.m3u8",
+      "duration": 3132.876,
+      "file_type": "Audio"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-11-18T19:40:21.446Z",
+  "created_by": "tanyaclement",
+  "label": "CD 3",
+  "updated_at": "2025-11-18T19:40:21.446Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}
