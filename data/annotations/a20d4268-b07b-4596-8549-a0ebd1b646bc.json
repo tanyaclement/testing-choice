@@ -1,0 +1,1719 @@
+{
+  "event_id": "d0827d48-facc-4160-8eba-37b584cd6715",
+  "source_id": "3ded55c3-fb23-4d49-a9ea-5507b2342aec",
+  "set": "lunchroom_manners.vtt",
+  "annotations": [
+    {
+      "uuid": "a94ffcc7-62f6-49ad-b9c9-b719f61ff9a1",
+      "start_time": 1.2,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[music]"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e7f04c7b-9340-4fff-9941-2c53ff8b6e80",
+      "start_time": 22.2,
+      "end_time": 26.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just before lunch one day, a puppet show \nwas put on at school."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0c62b6e9-2e7c-4ebe-ae48-d508e6d70106",
+      "start_time": 26.7,
+      "end_time": 31.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was called \"Mister Bungle Goes to Lunch\"."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0c0773a2-c814-49ff-87d8-835388836316",
+      "start_time": 31.6,
+      "end_time": 34.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was fun to watch."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "21c7dfb9-9c24-43c3-b348-cec94c6bc72e",
+      "start_time": 36.1,
+      "end_time": 41.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the puppet show, Mr. Bungle came to the \nboys' room on his way to lunch."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "df2cbb68-bbdd-4925-b52c-9d70682380f4",
+      "start_time": 41.4,
+      "end_time": 46.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He looked at his hands. His hands were dirty \nand his hair was messy."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "104eb900-fa42-4043-8160-bc87b129c44c",
+      "start_time": 46.3,
+      "end_time": 51.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Mr. Bungle didn't stop to wash his hands \nor comb his hair."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0157b482-c0c3-4c20-82be-c2a14fe3efcb",
+      "start_time": 51.2,
+      "end_time": 54.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He went right to lunch."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b6d2ce46-decc-4321-859a-9b4d4a70fe52",
+      "start_time": 57.9,
+      "end_time": 65.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, instead of getting into line at the \nlunchroom, Mr. Bungle pushed everyone aside \nand went right to the front."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7892fff1-17c4-4d7d-8aa2-e6112c80a0f1",
+      "start_time": 66,
+      "end_time": 71.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even though this made the children laugh, \nno one thought that was a fair thing to do."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9196d87f-6005-406b-afa5-801b2cf16bbc",
+      "start_time": 71.9,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, in the lunchroom, Mr. Bungle was so \nclumsy and impolite that he knocked over \neverything. And no one wanted to sit next \nto him."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "162f816c-6ec4-4167-a734-0e6750d8dd2f",
+      "start_time": 83.5,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And when he finally knocked his own tray \noff the table, that was the end of the puppet \nshow."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e216b055-5d2a-4e62-8634-ff0b4780f506",
+      "start_time": 90.3,
+      "end_time": 96.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The children knew that even though Mr. Bungle \nwas funny to watch, he wouldn't be much fun \nto eat with."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1371ddb0-bfba-4690-892c-7d324113d0a5",
+      "start_time": 96.4,
+      "end_time": 102.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil knew that a Mr. Bungle wouldn't have \nmany friends. He wouldn't want to be like \nMr. Bungle."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5811980b-6c9e-49e9-be47-942ab8c818d5",
+      "start_time": 103.9,
+      "end_time": 109.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Later Miss Brown said it was time to for \nthe children who ate in the cafeteria to \ngo to lunch."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f132e721-e5c7-4de1-b2d3-3202da728ca4",
+      "start_time": 109.2,
+      "end_time": 112.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She hoped there weren't any Mr. Bungles in \nthis room."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "611cea64-c238-4427-899f-bd00aeed370f",
+      "start_time": 118.5,
+      "end_time": 123.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil stopped to return a book to Miss Brown \nwhile his friends went on to the lunchroom."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1b9f5c14-ae0e-4417-b34b-c4a56020c939",
+      "start_time": 123.7,
+      "end_time": 125.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He would have to catch up with them later."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "deb17c74-1834-4631-b565-8c111e94342a",
+      "start_time": 128.5,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One his way to catch up with his friends, \nPhil almost walked passed the boys' room."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8cb62239-d4f6-48d3-92dd-ff464f961e73",
+      "start_time": 133.3,
+      "end_time": 136.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But he stopped and thought we're his hands \nclean?"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fd64d550-18ec-4a9d-95b0-1b6c524fd9dd",
+      "start_time": 136.5,
+      "end_time": 142.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, they were a little dirty. Phil remembered \nthat Mr. Bungle didn't wash his hands."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f516e5a7-e8ad-497e-9e3e-18f26fbd6461",
+      "start_time": 142.9,
+      "end_time": 145.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Bungle's hair was messy too."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "10be52d3-bc88-493b-9832-d806fe5b4dda",
+      "start_time": 145.8,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil didn't want to be like Mr. Bungle."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b4c899b9-399a-459f-b7fc-a6ffec343f9c",
+      "start_time": 151.2,
+      "end_time": 156.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Inside the boys' room, Phil was surprised \nto see some of his friends washing their \nhands too."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "026292ed-f584-465b-abc9-2e7097a56bf3",
+      "start_time": 157.3,
+      "end_time": 160.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil washed his hands well with lots of soap."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "d037a282-292a-463c-88c8-47e84572ea68",
+      "start_time": 165.4,
+      "end_time": 167.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then he rinsed the soap off."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "31a1e49e-05b3-4b33-8078-afee9ec370f3",
+      "start_time": 171.7,
+      "end_time": 178.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil dried his hands well too. When he was \nfinished, he threw the paper towel in the \nbasket where it belonged."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "06a7ccdb-61a6-49cb-8a61-97de1110d9fd",
+      "start_time": 179.7,
+      "end_time": 182.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then he made sure that his hair looked \nneat."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8aec5215-de36-4d77-a29a-aaa509a8c629",
+      "start_time": 185.5,
+      "end_time": 188.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now Phil and his friends were ready for lunch."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e429f998-a3c3-44d5-9f4b-16d889c263c9",
+      "start_time": 197.6,
+      "end_time": 202.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was a line of children waiting to get \ninto the lunchroom when Phil got there."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9e3afbef-8191-4dd1-b0df-6b2157d37a38",
+      "start_time": 202.8,
+      "end_time": 205.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He saw some boys he knew at the front of \nthe line."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4969ac12-e4ca-4ea4-97d2-439f0e4b1bc6",
+      "start_time": 205.5,
+      "end_time": 208.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They waved for him to go up to the front \nwith them."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b0ff86e8-7422-4804-a3e5-ed8b41cd321a",
+      "start_time": 209.6,
+      "end_time": 213.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Phil didn't want to break into line as \nMr. Bungle did."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7ac4d7e4-aada-4ce5-a5c4-44ec5e72ebb4",
+      "start_time": 214.3,
+      "end_time": 218.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So Phil went to the end. That was the fair \nthing to do."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "62008cc2-0ffa-4d82-96aa-82b7d749630d",
+      "start_time": 218.6,
+      "end_time": 221.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He would see his other friends inside the \nlunchroom."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6654b389-01ed-4bd4-8026-5fc51697cba7",
+      "start_time": 222.6,
+      "end_time": 226.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The line moved very fast, and soon Phil was \ninside."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "216d1dd5-e20c-4958-96af-c2bdcb4fca0d",
+      "start_time": 227.6,
+      "end_time": 229.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First he picked up his tray."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bba5abef-de74-42b4-809d-5ef42bccbee0",
+      "start_time": 235.4,
+      "end_time": 237.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then he got his silverware."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bba8cc1d-a76d-4d3f-b093-03a5495d5fc2",
+      "start_time": 239.5,
+      "end_time": 244.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He put his knife, fork and spoon neatly on \nthe tray."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "084ccc6b-a4f3-47bd-8e86-68f3b74a129c",
+      "start_time": 245,
+      "end_time": 247.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then he slid his tray along."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7eb827bc-a57d-4ff2-af70-bdb229782d6c",
+      "start_time": 251.9,
+      "end_time": 255.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He always enjoyed looking at the good food \nin the cafeteria."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "49b411a7-df2b-4a4e-b677-494cb1b89803",
+      "start_time": 255.4,
+      "end_time": 258.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It tasted good and was good for him too."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "28b59fba-5df8-40d2-ab43-14ede8e7e515",
+      "start_time": 258.9,
+      "end_time": 263.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Instead of having a sandwich today, Phil \ndecided to take the hot lunch."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "63751e83-d415-46f2-9b01-95b6660bedbd",
+      "start_time": 266.1,
+      "end_time": 268.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil took some bread and butter too."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "99045671-63dd-4b4c-990f-e6c676d00c39",
+      "start_time": 268.5,
+      "end_time": 271.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he knew what else he wanted: milk."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "482adad9-60e3-4bdb-9e80-4cd0802e9e06",
+      "start_time": 271.7,
+      "end_time": 275.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Alice took the last carton on the tray."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "93c1f374-8f3e-4c23-8e8f-a3e7206048ae",
+      "start_time": 275.7,
+      "end_time": 280.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maybe there was more more milk, so he said, \n\"May I please have some milk?\""
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "606bf255-8f62-4db2-bae1-aaff9e3077e8",
+      "start_time": 281.1,
+      "end_time": 285.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil remembered to say \"may I\" and \"please\". \nThat was very polite."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9022e926-6ecd-4794-a14c-0fd7c79b16ca",
+      "start_time": 285.9,
+      "end_time": 288.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, there was more milk."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ee6bfb02-3d18-498c-8d37-576c8fcf7a81",
+      "start_time": 291.8,
+      "end_time": 295.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil remembered to say \"thank you\" when he \ntook the carton of milk."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6698fd53-da11-4e3f-a337-c3c3cddc83d9",
+      "start_time": 296.7,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil had good manners. He didn't want to \nbe like Mr. Bungle in the lunchroom."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0c3329ee-7613-4499-b8a5-383c35f0600e",
+      "start_time": 301.5,
+      "end_time": 304.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil didn't want to forget his dessert."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7a1909bc-e0de-488a-a18b-aeae608e60d9",
+      "start_time": 305.1,
+      "end_time": 308.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The cake looked delicious [and was huge!]."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1b3c64ba-8288-4df7-9882-d25f3a43dc88",
+      "start_time": 310.6,
+      "end_time": 315.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the end of the line, the lunchroom supervisor \nsaid she had noticed how polite Phil was."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "eace2709-e43c-4940-9958-961fe54ef6de",
+      "start_time": 315.4,
+      "end_time": 317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she smiled at him."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a6711645-6c89-41dc-9d96-98c6e21fa84a",
+      "start_time": 317.1,
+      "end_time": 319.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She wouldn't smile at a Mr. Bungle."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "15236fbf-6fe2-4c95-ac42-e821fd6f10db",
+      "start_time": 320,
+      "end_time": 322.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil went to table where his friends were."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "ba112852-bd82-4975-a4dc-ef9466236bf1",
+      "start_time": 323.5,
+      "end_time": 329.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He put his tray down carefully, pulled out \nhis chair quietly and sat down."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0c3148bc-8213-4981-a595-81db6062b2a3",
+      "start_time": 330.1,
+      "end_time": 333.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He knew his friends would like a noisy Mr. \nBungle at their table."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "fd0d7e1f-0f5a-47b6-af1a-3d1fd2f38212",
+      "start_time": 333.8,
+      "end_time": 336.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was someone Phil liked: Freddy."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a32e1d80-46a5-4e50-98c0-090a914e4c8a",
+      "start_time": 337.4,
+      "end_time": 339.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He always brought his lunch from home."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "db8cf526-ddec-49ff-bb1a-68727a3ec78e",
+      "start_time": 339.8,
+      "end_time": 340.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It looked good."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "210281f1-1341-4b13-8194-445366d3b332",
+      "start_time": 341.6,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Freddy had a sandwich, and apple, a cookie, \nand milk."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4f298a00-e369-4f9e-b08d-1b18ec673909",
+      "start_time": 348.3,
+      "end_time": 352.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before Phil began to eat, he always put a \nnapkin on his lap."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cfb084b2-4316-4be6-a0a6-cbce73046e11",
+      "start_time": 352.4,
+      "end_time": 353.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So did Freddy."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6733b0ae-b685-4515-992b-0d10656fe6f8",
+      "start_time": 355.1,
+      "end_time": 358.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone liked Freddy. He was very polite."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c96a376a-4d57-4d9a-9660-73b21354297a",
+      "start_time": 358.4,
+      "end_time": 361.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For example, if he had food in his mouth \nwhen someone talked to him,"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5125e1ac-02d8-4870-8c26-56838aad6d81",
+      "start_time": 362,
+      "end_time": 367.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "he always took time to chew the food with \nhis mouth closed and swallow before he answered."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7bc9e7a5-a6a7-4ff6-94ff-57dfa462a270",
+      "start_time": 368.9,
+      "end_time": 372.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil noticed how straight and tall Freddy \nusually sat."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cc619293-f9c8-4f90-bdeb-b88862aa25e2",
+      "start_time": 372.9,
+      "end_time": 375.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Freddy kept his feet on the floor too."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5d09ad76-8383-4dc6-968c-6c1554eadd3b",
+      "start_time": 378.2,
+      "end_time": 381.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil would rather be like Freddy than like \nMr. Bungle."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "bb582d9a-29d7-4f6b-b7d0-64bfe23ae8ee",
+      "start_time": 381.6,
+      "end_time": 385.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another polite person everyone liked was \nAlice."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "73fcdfe5-f96d-4d11-a9b7-43ae6fa208f7",
+      "start_time": 386.7,
+      "end_time": 393.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For example, when Alice sneezed, she covered \nher mouth and nose. This protected her friends \nat the table from any germs."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "3fe9ac0b-3a4b-4b70-887b-d10f4da93f6a",
+      "start_time": 394.5,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While Phil and his friends ate, a boy ran \npast their table."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0a4e4fd5-8f58-4abc-9a92-8c67f9792f9f",
+      "start_time": 398.1,
+      "end_time": 402.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You shouldn't run in the lunchroom. Only \nMr. Bungle would do that."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6d6ee586-fcf7-422c-bebc-94614968bc8d",
+      "start_time": 405.8,
+      "end_time": 409.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil and his friends wouldn't like to have \na Mr. Bungle at their table."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "b707294d-5bd9-410a-996d-1f316b3a7e4d",
+      "start_time": 409.6,
+      "end_time": 412.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then lunchtime wouldn't be as much fun as \nit is."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "58c17d44-8ce5-40f4-b486-f79fa5d87f27",
+      "start_time": 413.5,
+      "end_time": 416.1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil ate slowly and enjoyed his lunch."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "e2adcd4e-6798-4eac-a7cb-c6f9b1406943",
+      "start_time": 417.5,
+      "end_time": 420.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, he had eaten everything except his \ndessert."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "da84f783-276e-420d-b2e2-83727378e13b",
+      "start_time": 421,
+      "end_time": 423.8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He saved his cake for last."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "59828e40-cfbe-48bb-8318-2adf95d45081",
+      "start_time": 423.9,
+      "end_time": 427.9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only a Mr. Bungle would eat his dessert before \nhe'd finished the rest of his lunch."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "683eee51-1ff2-406f-acdb-63eea3a45877",
+      "start_time": 428.2,
+      "end_time": 430.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Phil wan't a Mr. Bungle."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c2c5a4fc-0bc1-493e-b128-5b0a6a78474d",
+      "start_time": 431.6,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The cake was a lie."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "9c0dfa75-32ab-4d88-ac43-7eac047a5d2e",
+      "start_time": 436.8,
+      "end_time": 438.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil drank his milk carefully."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "c204d53a-7ec9-4005-93eb-3e19ec4df56b",
+      "start_time": 438.8,
+      "end_time": 442.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some children are messy when they drink milk, \nbut not Phil."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "65743d90-86df-4e6b-864c-b033c8025b8f",
+      "start_time": 444.6,
+      "end_time": 450.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As each of Phil's friends finished, they \ndidn't leave the table but waited for all \nthe others to finish eating too."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4f7f5b67-2f5b-4634-bf1d-8359d01cdea9",
+      "start_time": 451.8,
+      "end_time": 454.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil was the last one done."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a14eebf4-97eb-4897-91a8-823516ac0727",
+      "start_time": 454.6,
+      "end_time": 457.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His wiped his mouth and hands carefully with \nhis napkin."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "89fc15ee-8fdf-413f-a2d4-96b3b585b162",
+      "start_time": 458.5,
+      "end_time": 460.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then he cleaned the table where he sat."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "6ceeddaa-3506-4b30-b5ed-befa93a4b9f9",
+      "start_time": 461.2,
+      "end_time": 463.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He didn't want to leave his place at the \ntable dirty."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "984ee9e2-df70-46a2-af59-6ae45b3c2b8d",
+      "start_time": 464.8,
+      "end_time": 472.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyone at the table cleaned his own place \nwell. But look at that table. It was left \nvery messy."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "7b31467c-59cc-40c4-9add-611a3a8ddc23",
+      "start_time": 473.9,
+      "end_time": 476.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil thought a Mr. Bungle must have sat there."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "0e452865-de15-4d3e-835f-8c23ce4aea97",
+      "start_time": 478.2,
+      "end_time": 484.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Phil didn't want to be like Mr. Bungle \nso he put his chair neatly into place."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "5bc9f58b-5e39-4ed5-9b4b-9a96620b51ab",
+      "start_time": 485.5,
+      "end_time": 488.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And his table looked fine."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "4598b309-b259-4c80-8569-8611994868ad",
+      "start_time": 489.1,
+      "end_time": 492.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not a piece of paper or scrap of food was \nleft on it."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "cc1217ef-8d16-48cf-9ff0-d5b0125a04d1",
+      "start_time": 497,
+      "end_time": 499.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No Mr. Bungle sat here!"
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "2ef6f7b5-e1d3-4b6e-8476-6c155754dbb4",
+      "start_time": 501.1,
+      "end_time": 506.4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil's friends were careful to put their \nwaste papers and empty milk cartons where \nthey belonged."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "837827c7-e107-4139-bfea-441b1d49a1e3",
+      "start_time": 507.3,
+      "end_time": 511.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this way, they helped keep the lunchroom \nclean."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "13f00a54-2f33-4174-8948-c20a5f9c83b9",
+      "start_time": 511.9,
+      "end_time": 517.7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Phil was certain that Mr. Bungle wouldn't \nput his paper in the waste basket and his \nempty carton on the milk tray."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "369c5ad4-6849-4008-9ada-f29e50bdccee",
+      "start_time": 518.3,
+      "end_time": 522.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Bungle probably wouldn't bother to put \nhis lunch tray in the right place either."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "54753326-efe1-4214-9eb4-e4c9ed4e16a4",
+      "start_time": 522.7,
+      "end_time": 527.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But Phil and his friends did."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "f56382d6-9f5f-4676-a7e5-a0a273bdff4f",
+      "start_time": 527.6,
+      "end_time": 533.5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lunch was good today. And then Miss Brown \ntold Phil and his friends how proud she was \nof them."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "a1f34447-e454-4b8b-821f-5baf550cf3f2",
+      "start_time": 534,
+      "end_time": 537.3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They had left their table the neatest in \nthe luchroom."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8f4ee4ad-c6c5-4c30-8ebb-2d09bfd852e0",
+      "start_time": 537.4,
+      "end_time": 542.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No one here was a Mr. Bungle. And no one \nwanted to be."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "1b77c9f5-8b18-4457-a6c3-667cfad37968",
+      "start_time": 542.8,
+      "end_time": 549.2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are you like Mr. Bungle? Mr. Bungle is ashamed \nbecause he spoils lunchtime."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "8cea6a82-e123-4daa-8e36-e908c5610d16",
+      "start_time": 550.5,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't be like Mr. Bungle."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    },
+    {
+      "uuid": "37f24b80-e084-471e-bf92-e679940cf443",
+      "start_time": 552.1,
+      "end_time": 557.6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have good lunchtime manners and lunch will \nbe more fun for everyone."
+            }
+          ]
+        }
+      ],
+      "tags": []
+    }
+  ]
+}
